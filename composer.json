@@ -1,5 +1,5 @@
 {
-    "name": "simpsons-composermode",
+    "name": "mscodder007/simpsons-composermode",
     "description": "A custom module for Magento 2",
     "require": {
         "php": "^8.1",
