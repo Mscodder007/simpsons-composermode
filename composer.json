@@ -21,7 +21,12 @@
        "role": "Technical Support"
      }
      ],
-     "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Mscodder007/simpsons-composermode"
+        }
+    ],
     "autoload": {
         "files": [
             "registration.php"
