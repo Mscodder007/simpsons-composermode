@@ -4,6 +4,7 @@
     "type": "magento2-module",
     "require": {
         "magento/product-community-edition": "2.4.*",
+        "simpsons/composermode": "1.0.0"
     },
     "repositories": {
         "simpsons_composermode": {
@@ -12,7 +13,7 @@
             
         }
     },
-    "version": "2.4.3",
+    "version": "2.4.4",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
