@@ -6,9 +6,6 @@
         "friendsofphp/php-cs-fixer": "^3.0", 
         "phpstan/phpstan": "^1.0"           
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true,
-    "version": "1.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -20,8 +17,7 @@
        "homepage": "https://www.simpsonstest.com",
        "role": "Technical Support"
      }
-     ],
-    "repositories": [
+     ],"repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/Mscodder007/simpsons-composermode"
