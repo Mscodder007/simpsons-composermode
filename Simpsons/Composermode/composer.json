@@ -2,11 +2,6 @@
     "name": "simpsons/composermode",
     "description": "A custom module for Magento 2",
     "type": "magento2-module",
-    "require": {
-        "php": "^7.1",
-        "magento/product-community-edition": "2.4.*",
-        "simpsons/composermode": "1.0.0"
-    },
     "repositories": {
         "simpsons_composermode": {
             "type": "vcs",
@@ -14,7 +9,7 @@
             
         }
     },
-    "version": "2.4.4",
+    "version": "1.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
