@@ -14,16 +14,6 @@
             
     //     }
     // },
-     "repositories": [
-         {
-             "type": "composer",
-             "url": "https://packagist.org"
-         },
-         {
-             "type": "vcs",
-             "url": "https://github.com/Mscodder007/simpsons-composermode.git" // Adjust if needed
-         }
-     ],
     "minimum-stability": "stable",
     "prefer-stable": true,
     "version": "1.0.0",
