@@ -14,14 +14,15 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "authors": [
-    {
-      "name": "Mohit",
-      "email": "support@simpsonstest.com",
-      "homepage": "https://www.simpsonstest.com",
-      "role": "Technical Support"
-    }
-  ],
+    // "authors": [
+    // {
+    //   "name": "Mohit",
+    //   "email": "support@simpsonstest.com",
+    //   "homepage": "https://www.simpsonstest.com",
+    //   "role": "Technical Support"
+    // }
+    // ],
+    // "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
