@@ -6,6 +6,7 @@
         "friendsofphp/php-cs-fixer": "^3.0", 
         "phpstan/phpstan": "^1.0"           
     },
+    "type": "magento2-module",
     "version": "1.0.0",
     "license": [
         "OSL-3.0",
